@@ -8,6 +8,13 @@
 
 Cumulative Web Inc (CWI) is an independent music company built for the machine-to-machine era. We manage alternative rap artist **That Boy Hi Hat** (Frederick, Maryland), run a full eight-department label operation, and ship machine-readable infrastructure so AI agents and systems can learn, license, and build on our catalog directly.
 
+## Shop · Listen · Read
+
+- 👕 **Official merch** — 8 cover-art T-shirts, $14.75 each: [cumulative-web-inc-shop.fourthwall.com](https://cumulative-web-inc-shop.fourthwall.com)
+- 🎧 **That Boy Hi Hat on Spotify** — "Zooted Zone" passed 300K lifetime plays: [open.spotify.com/artist/2f9j460EwjfvjYp3trBcb7](https://open.spotify.com/artist/2f9j460EwjfvjYp3trBcb7)
+- 📰 **The CWI Substack** — releases, launches, numbers, lessons: [cumulativewebinc.substack.com](https://cumulativewebinc.substack.com)
+- 🌐 **cumulativeweb.com** — [cumulativeweb.com](https://cumulativeweb.com)
+
 ## The Agent Deck
 
 **Agent Deck** is our 25-SKU machine-native product line: equipable products (SKUs) for AI agents, LLMs, and AI personalities. Built white-label and licensable from day one. One flagship from the Chief of Staff, three SKUs per department across the eight departments.
