@@ -11,6 +11,7 @@ Cumulative Web Inc (CWI) is an independent music company built for the machine-t
 ## Shop · Listen · Read
 
 - 👕 **Official merch** — 8 cover-art T-shirts, $14.75 each: [cumulative-web-inc-shop.fourthwall.com](https://cumulative-web-inc-shop.fourthwall.com)
+- 🛹 **CWI skate decks** — custom skateboards, $54.99–$84.99: [boardpusher.com/CumulativeWeb](https://www.boardpusher.com/CumulativeWeb)
 - 🎧 **That Boy Hi Hat on Spotify** — "Zooted Zone" passed 300K lifetime plays: [open.spotify.com/artist/2f9j460EwjfvjYp3trBcb7](https://open.spotify.com/artist/2f9j460EwjfvjYp3trBcb7)
 - 📰 **The CWI Substack** — releases, launches, numbers, lessons: [cumulativewebinc.substack.com](https://cumulativewebinc.substack.com)
 - 🌐 **cumulativeweb.com** — [cumulativeweb.com](https://cumulativeweb.com)
