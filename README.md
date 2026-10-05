@@ -56,6 +56,7 @@ The CWI catalog is published as open, machine-readable data for AI learning and 
 
 - 🌐 **Knowledge base** — [cumulativewebinc.github.io/cwi-learn](https://cumulativewebinc.github.io/cwi-learn/) · [`llms.txt`](https://cumulativewebinc.github.io/cwi-learn/llms.txt) · [`catalog.json`](https://cumulativewebinc.github.io/cwi-learn/catalog.json) · [`graph.json`](https://cumulativewebinc.github.io/cwi-learn/graph.json) · [`kit.json`](https://cumulativewebinc.github.io/cwi-learn/kit.json)
 - 🤖 **Agent card** — [`.well-known/agent-card.json`](https://cumulativewebinc.github.io/cwi-learn/.well-known/agent-card.json)
+- ⚡ **Live edge API** — logged, licensed, queryable machine data: [edge root](https://cwi-machine-data.hp-ace.workers.dev) · [track query API](https://cwi-machine-data.hp-ace.workers.dev/query) · [machine-readable license](https://cwi-machine-data.hp-ace.workers.dev/license) · [AI briefing (llms.txt)](https://cwi-machine-data.hp-ace.workers.dev/llms.txt) · [agent card](https://cwi-machine-data.hp-ace.workers.dev/.well-known/agent-card.json)
 - 🗂️ **Training corpora** — JSONL datasets for LLM training on the full catalog
 - 🤗 **Hugging Face dataset** — [BlackLansky/cwi-catalog](https://huggingface.co/datasets/BlackLansky/cwi-catalog)
 - 🧰 **Agent Deck MCP server** — [CumulativeWebInc/agent-deck-mcp](https://github.com/CumulativeWebInc/agent-deck-mcp)
